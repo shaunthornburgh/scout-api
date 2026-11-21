@@ -1,0 +1,19 @@
+priority,category,name,url,notes
+1,Aggregator,Property Auction Action,https://www.propertyauctionaction.co.uk/,Hit first — many houses in one place
+1,Aggregator,AuctionRadar,https://auctionradar.co.uk/,Hit first
+2,National auction,Allsop Residential,https://www.allsop.co.uk/auctions/residential-auctions/,Current + next catalogue
+2,National auction,Allsop Commercial,https://www.allsop.co.uk/auctions/commercial-auctions/,Current + next catalogue
+2,National auction,Savills Auctions,https://auctions.savills.co.uk/,Resi and commercial lots
+2,National auction,SDL Property Auctions,https://www.sdlauctions.co.uk/,Events + timed auctions
+2,National auction,Acuitus,https://www.acuitus.co.uk/,Commercial / investment / portfolios
+2,National auction,BidX1 UK,https://bidx1.com/en/united-kingdom,Online timed
+2,National auction,Pugh Auctions,https://www.pugh-auctions.com/,Strong on insolvency lots
+2,National auction,Clive Emson,https://www.cliveemson.co.uk/,South / East including Norfolk
+2,National auction,Auction House UK,https://www.auctionhouse.co.uk/,Regional network
+2,National auction,Knight Frank Auctions,https://www.knightfrank.co.uk/properties/auction,Check live catalogue
+2,National auction,Strettons Auctions,https://www.strettons.co.uk/auctions,London / South East bias — still scan for non-London
+2,National auction,Network Auctions,https://www.networkauctions.co.uk/,London / SE bias — still scan for non-London
+3,Regional auction,Barnard Marcus Auctions,https://www.barnardmarcusauctions.co.uk/,When catalogue live
+3,Regional auction,Barnett Ross,https://www.barnettross.co.uk/,When catalogue live
+3,Regional auction,Harman Healy,https://www.harman-healy.co.uk/,When catalogue live
+3,Regional auction,McHugh and Co,https://www.mchughandco.com/,When catalogue live

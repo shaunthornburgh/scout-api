@@ -1,0 +1,6 @@
+priority,category,name,url,notes
+1,IP property list,RSM insolvency properties for sale,https://www.rsmuk.com/what-we-offer/services/consulting/restructuring/restructuring-insolvency-services/properties-for-sale,Named IP stock. Open every Portals sweep.
+1,IP property list,Kroll properties for sale,https://www.kroll.com/en/services/restructuring/properties-for-sale,Named IP stock. Same pattern as RSM.
+1,Receiver agent,Sanderson Weatherall properties,https://www.sw.co.uk/properties/,Filter For Sale.
+1,Receiver agent,BTG Eddisons property search,https://www.eddisons.com/property-search?purchase-type-id=for-sale,For sale grid only. Not SDL or Pugh auctions.
+2,Receiver agent,Lambert Smith Hampton,https://www.lsh.co.uk/,No public listings grid. One try; skip if nothing to scrape.
