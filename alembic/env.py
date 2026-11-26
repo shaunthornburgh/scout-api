@@ -31,7 +31,7 @@ def run_migrations_offline() -> None:
 
 def run_migrations_online() -> None:
     # Use sync engine for alembic
-    sync_url = settings.database_url.replace("+asyncpg", "")
+    sync_url = settings.database_url.replace("+asyncpg", "+psycopg")
     connectable = engine_from_config(
         {"sqlalchemy.url": sync_url},
         prefix="sqlalchemy.",
